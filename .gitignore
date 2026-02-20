@@ -1,0 +1,23 @@
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+
+# Temporary or export data files
+*.csv
+*.xlsx
+*.json
+
+# Logs and cache files
+*.log
+*.tmp
+
+# IDE / editor settings
+.vscode/
+.idea/
+.DS_Store
